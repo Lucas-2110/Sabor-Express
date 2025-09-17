@@ -18,7 +18,7 @@ def exibir_opcoes():
 
 def finalizar_app():
     '''Essa função apresenta a mensagem de finalização do app'''
-    exibir_subtitulo('Encerrando o app')
+    exibir_subtitulo('Encerrando o app!')
 
 def voltar_ao_menu_principal():
     '''Essa função é responsável por voltar ao menu principal, com o usuário digitando uma tecla
