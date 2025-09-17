@@ -6,7 +6,7 @@ restaurantes = [{'nome' : 'Praça', 'categoria' : 'Japonesa', 'ativo' : False},
                 {'nome' : 'Cantina', 'categoria' : 'Italiana', 'ativo' : False}]
 
 def exibir_nome_programa():
-    '''Essa função exibe o nome do programa'''
+    '''Essa função exibe o nome dos programa'''
     print('𝕊𝕒𝕓𝕠𝕣 𝔼𝕩𝕡𝕣𝕖𝕤𝕤\n')
 
 def exibir_opcoes():
